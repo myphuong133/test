@@ -1,17 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6df8d77d-c51b-49a1-a2b2-0fb70d91e818" name="Changes" comment="" />
+    <list default="true" id="6df8d77d-c51b-49a1-a2b2-0fb70d91e818" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Case_Mobile_BLock2/AppMobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Case_Mobile_BLock2/AppMobile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Case_Mobile_BLock2/AppMobileStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Case_Mobile_BLock2/AppMobileStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Case_Mobile_BLock2/Mobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Case_Mobile_BLock2/Mobile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Case_Mobile_BLock2/MobileStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Case_Mobile_BLock2/MobileStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Case_Mobile_BLock2/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Case_Mobile_BLock2/test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2N8DzoGbFrGoZAwQbsPaJu5jLdq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,6 +43,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -32,7 +59,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679037081274</updated>
+      <workItem from="1679037082486" duration="9011000" />
+      <workItem from="1679136312743" duration="707000" />
+      <workItem from="1679279191372" duration="3205000" />
+      <workItem from="1679292784184" duration="4000" />
+      <workItem from="1679294688914" duration="2029000" />
+      <workItem from="1679369027957" duration="13000" />
+      <workItem from="1679536282951" duration="847000" />
+      <workItem from="1680174675330" duration="610000" />
+      <workItem from="1680486773836" duration="37000" />
+      <workItem from="1683270411669" duration="436000" />
+      <workItem from="1684037911323" duration="12000" />
+      <workItem from="1685337349474" duration="1642000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
